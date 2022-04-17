@@ -1,0 +1,40 @@
+#menu{
+    position:relative;
+    display:block;
+    width: 100%;
+    height:auto;
+  }
+  ul{
+    position:relative;
+    display:block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    list-style:none;
+  }
+  li{
+    position:relative;
+    display :block;
+    float: left;
+    width: auto;
+    height: auto; 
+    }
+  a{
+    padding:10px;
+    display:block;
+    font-size:14pt;
+    font-weight: bold;
+    text-decoration: none;
+    color:White;
+    text-transfore: uppercase;
+    box-sizing: border-box;
+    background-color:#FF4500;
+    border:10px solid Violet;
+  }
+  a:hover{
+    background-color:#6A5ACD;
+    border-radius: 15px 0;
+    color:#FFFFFF;
+    border:5px dotted green;
+  }

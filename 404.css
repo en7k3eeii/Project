@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+p{
+    color:white;
+    position:absolute;
+     top:100px;
+     left:900px;
+     font-size:48px;
+     font-family:Amatic SC;
+}
+img{
+    margin: 0;
+    padding: 0;
+    width:100%;
+}
+.go_back{
+ color:white;
+ top: 500px;
+ left: 800px;
+ font-size:48px;
+ position:absolute;
+}
+.main{
+    color:whitesmoke;
+    position:absolute;
+    top:250px;
+    left:150px;
+    font-size:32px;
+}
+a{
+    color:white;
+    text-decoration:none;
+    font-family:Amatic SC;
+}
+
